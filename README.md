@@ -1,10 +1,10 @@
-# NodeJS Test
+# Module 7 Challenge
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-Testing Node.js
+A coding exercise demonstrating the use of NodeJS & Inquirer.
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ Testing Node.js
 
 ## Installation
 
-Default
+npm init, npm i, node index.js
 
 ## Usage
 
-Educational
+This is purely educational.
 
 ## License
 
@@ -29,7 +29,7 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Contributing
 
-Standard
+Refer to MIT License above.
 
 ## Tests
 
